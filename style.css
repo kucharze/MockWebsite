@@ -147,7 +147,7 @@
 .training {
   border: solid blue;
   background-color: darkblue;
-  height: 575px;
+  /* height: 575px; */
   display: flex;
   margin-top: 45px;
 }
@@ -160,7 +160,7 @@
   margin-top: 100px;
 }
 .trainingnews {
-  margin-left: 150px;
+  margin-left: 120px;
   margin-top: 100px;
 }
 .trainingNews {
@@ -169,8 +169,8 @@
 }
 .trainingP {
   color: white;
-  font-size: 25px;
-  width: 50%;
+  font-size: 21px;
+  width: 70%;
 }
 .sol {
   color: lightblue;
