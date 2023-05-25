@@ -1,0 +1,83 @@
+.nav {
+  border: solid black;
+  background-color: lightgray;
+  height: 80px;
+  display: flex;
+  justify-content: space-around;
+}
+.BnyLogo {
+  height: 70%;
+  padding: 5px;
+  padding-left: 20px;
+  margin-top: 7px;
+  border: solid blue;
+}
+.tabs {
+  border: solid green;
+  display: flex;
+  justify-content: space-between;
+  width: 600px;
+  padding: 15px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+.magGlass {
+  height: 40px;
+}
+.contactUs {
+  border: solid white;
+  height: 70%;
+  margin-top: 10px;
+  margin-right: 40px;
+  font-size: 20px;
+  border-radius: 20px;
+}
+.otherNav {
+  border: solid coral;
+  display: flex;
+  padding: 15px;
+  margin-top: 10px;
+  width: 25%;
+  justify-content: space-evenly;
+  width: 500px;
+  align-items: center;
+}
+.alta {
+  border: solid green;
+  background-color: blue;
+  height: 700px;
+}
+.alta1 {
+  font-size: 80px;
+  margin-bottom: 0px;
+  color: white;
+}
+.alta2 {
+  font-size: 80px;
+  color: pink;
+}
+.Altainfo {
+  color: white;
+  margin-left: 10px;
+  font-size: 18px;
+  width: 500px;
+}
+.learn {
+  background-color: blue;
+  color: white;
+  font-size: 45px;
+  border-radius: 25px;
+  margin-left: ;
+}
+.news {
+  border: solid orange;
+  height: 175px;
+}
+.insights {
+  border: solid red;
+  height: 200px;
+}
+.training {
+  border: solid blue;
+  height: 175px;
+}
