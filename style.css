@@ -1,9 +1,14 @@
 .nav {
   border: solid black;
-  background-color: lightgray;
+  color: white;
+  /* background-color: lightgray; */
   height: 80px;
   display: flex;
   justify-content: space-around;
+}
+.upperSection {
+  background-image: url("Arizona1.JPG");
+  background-size: cover;
 }
 .BnyLogo {
   height: 60%;
@@ -45,8 +50,7 @@
   /* border: solid green; */
   /* background-color: blue; */
   height: 650px;
-  background-image: url("Arizona1.JPG");
-  background-size: cover;
+
   /* width: 95%; */
 }
 .alta1 {
