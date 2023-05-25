@@ -99,11 +99,37 @@
   margin-left: 10px;
 }
 .insights {
-  border: solid red;
-  height: 200px;
+  /* border: solid red; */
+  margin-left: 25px;
+  margin-right: 25px;
+  height: 500px;
 }
 .newAndInsights {
   font-size: 40px;
+}
+.newsTitle {
+  color: darkblue;
+}
+.new1 {
+  width: 35%;
+  margin-left: 30px;
+}
+.new2 {
+  width: 35%;
+  margin-left: 50px;
+}
+.new3 {
+  width: 35%;
+  margin-left: 50px;
+}
+.newsPic {
+  height: 30%;
+}
+.newscontainer {
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  margin-left: 150px;
 }
 .training {
   border: solid blue;
