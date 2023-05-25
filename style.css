@@ -6,7 +6,7 @@
   justify-content: space-around;
 }
 .BnyLogo {
-  height: 70%;
+  height: 60%;
   padding: 5px;
   padding-left: 20px;
   margin-top: 7px;
@@ -17,7 +17,7 @@
   width: 600px;
   padding: 15px;
   margin-top: 10px;
-  font-size: 20px;
+  font-size: 18px;
 }
 .magGlass {
   height: 40px;
@@ -26,7 +26,7 @@
   height: 70%;
   margin-top: 10px;
   margin-right: 40px;
-  font-size: 20px;
+  font-size: 18px;
   border-radius: 25px;
 }
 .otherNav {
@@ -34,7 +34,7 @@
   padding: 15px;
   margin-top: 10px;
   width: 25%;
-  font-size: 20px;
+  font-size: 18px;
   justify-content: space-evenly;
   width: 500px;
   align-items: center;
@@ -82,7 +82,7 @@
 }
 .news {
   border: solid white;
-  height: 220px;
+  /* height: 250px; */
   width: 80%;
   margin-left: 180px;
   background-color: lightgray;
@@ -110,10 +110,10 @@
   /* border: solid red; */
   margin-left: 25px;
   margin-right: 25px;
-  height: 500px;
+  /* height: 500px; */
 }
 .newAndInsights {
-  font-size: 40px;
+  font-size: 30px;
 }
 .newsTitle {
   color: darkblue;
@@ -131,12 +131,12 @@
   margin-left: 50px;
 }
 .newsPic {
-  height: 30%;
+  height: 25%;
 }
 .newscontainer {
   display: flex;
   justify-content: space-between;
-  width: 70%;
+  width: 60%;
   margin-left: 150px;
 }
 .training {
