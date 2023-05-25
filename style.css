@@ -11,10 +11,10 @@
   background-size: cover;
 }
 .BnyLogo {
-  height: 60%;
+  height: 50%;
   padding: 5px;
   padding-left: 20px;
-  margin-top: 7px;
+  margin-top: 10px;
 }
 .tabs {
   display: flex;
