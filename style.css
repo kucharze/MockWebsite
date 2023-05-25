@@ -10,10 +10,8 @@
   padding: 5px;
   padding-left: 20px;
   margin-top: 7px;
-  border: solid blue;
 }
 .tabs {
-  border: solid green;
   display: flex;
   justify-content: space-between;
   width: 600px;
@@ -25,19 +23,18 @@
   height: 40px;
 }
 .contactUs {
-  border: solid white;
   height: 70%;
   margin-top: 10px;
   margin-right: 40px;
   font-size: 20px;
-  border-radius: 20px;
+  border-radius: 25px;
 }
 .otherNav {
-  border: solid coral;
   display: flex;
   padding: 15px;
   margin-top: 10px;
   width: 25%;
+  font-size: 20px;
   justify-content: space-evenly;
   width: 500px;
   align-items: center;
@@ -46,6 +43,7 @@
   border: solid green;
   background-color: blue;
   height: 700px;
+  /* background-image: url("https://px.ads.linkedin.com/ws_collect/?pid=269162&timestamp=1684973119676&raw_event_id=269162-d3bfa852-359f-192f-f52b-d0e310688eb6-1684973119667"); */
 }
 .alta1 {
   font-size: 80px;
@@ -67,15 +65,45 @@
   color: white;
   font-size: 45px;
   border-radius: 25px;
-  margin-left: ;
+  margin-left: 10px;
+}
+.learnless {
+  background-color: lightgray;
+  border: none;
+  font-size: 25px;
 }
 .news {
-  border: solid orange;
-  height: 175px;
+  border: solid white;
+  height: 220px;
+  width: 80%;
+  margin-left: 180px;
+  background-color: lightgray;
+  justify-content: space-between;
+  display: flex;
+}
+.title {
+  width: 50%;
+  border: white solid;
+}
+.leadIn {
+  color: darkblue;
+  font-size: 20px;
+}
+.insight {
+  font-size: 35px;
+}
+.newsitems {
+  text-align: left;
+  /* border: solid white; */
+  width: 50%;
+  margin-left: 10px;
 }
 .insights {
   border: solid red;
   height: 200px;
+}
+.newAndInsights {
+  font-size: 40px;
 }
 .training {
   border: solid blue;
